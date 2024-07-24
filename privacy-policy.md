@@ -1,13 +1,13 @@
 # Doa2k App Privacy Policy
 Effective date: July 1, 2024
 
-Welcome to Money App, The mobile application is designed to help you manage your medication appointments and alert you about them. This Privacy Policy describes our practices regarding the collection, use and disclosure of your information and your rights with respect to that information.
+Welcome to Doa2k App, The mobile application is designed to help you manage your medication appointments and alert you about them. This Privacy Policy describes our practices regarding the collection, use and disclosure of your information and your rights with respect to that information.
 
 ## 1. Information Collection
 ### Personal Data
 We do not collect any personal information.
 
-### Drug data
+### Medication data
 We collect information about your medications, including their name, labels, how often the medication will be taken, the number of days, date, and time.
 
 ### Device Information
