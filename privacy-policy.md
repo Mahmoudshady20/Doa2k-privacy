@@ -15,20 +15,20 @@ We may collect information about the device you use to access the Doa2k App, suc
 
 ## 2. Permissions We Use
 ### RECEIVE_BOOT_COMPLETED
-Purpose: This permission allows our app to automatically restart scheduled notifications after your device reboots, ensuring you don't miss important reminders even if your device restarts.
-Usage: We use this permission strictly to restart alarms and notifications that were set before the reboot. No personal data is collected or stored as a result of this permission.
+- Purpose: This permission allows our app to automatically restart scheduled notifications after your device reboots, ensuring you don't miss important reminders even if your device restarts.
+- Usage: We use this permission strictly to restart alarms and notifications that were set before the reboot. No personal data is collected or stored as a result of this permission.
 
 ### SCHEDULE_EXACT_ALARM
-Purpose: This permission enables our app to schedule notifications at precise times, which is crucial for timely reminders such as medication alerts.
-Usage: We use this permission to set exact alarms for notifications. The information related to these alarms is stored locally on your device and is not shared or transmitted.
+- Purpose: This permission enables our app to schedule notifications at precise times, which is crucial for timely reminders such as medication alerts.
+- Usage: We use this permission to set exact alarms for notifications. The information related to these alarms is stored locally on your device and is not shared or transmitted.
 
 ### USE_FULL_SCREEN_INTENT
-Purpose: This permission allows our app to display full-screen notifications, ensuring you see critical alerts without delay.
-Usage: We use this permission for notifications that require immediate attention, such as emergency reminders. This permission does not involve collecting or storing any personal data.
+- Purpose: This permission allows our app to display full-screen notifications, ensuring you see critical alerts without delay.
+- Usage: We use this permission for notifications that require immediate attention, such as emergency reminders. This permission does not involve collecting or storing any personal data.
 
 ### WAKE_LOCK
-Purpose: This permission allows our app to keep the device awake to ensure that important notifications are delivered and displayed promptly.
-Usage: We use this permission to maintain the device's wake state for brief periods to deliver notifications. It helps ensure timely alerts without collecting any personal information.
+- Purpose: This permission allows our app to keep the device awake to ensure that important notifications are delivered and displayed promptly.
+- Usage: We use this permission to maintain the device's wake state for brief periods to deliver notifications. It helps ensure timely alerts without collecting any personal information.
 
 ## 3. Use of data
 The information we collect is used in various ways, including:
