@@ -19,12 +19,12 @@ We may collect information about the device you use to access the Doa2k App, suc
 - Usage: We use this permission strictly to restart alarms and notifications that were set before the reboot. No personal data is collected or stored as a result of this permission.
 
 ### SCHEDULE_EXACT_ALARM
-- Purpose: This permission enables our app to schedule notifications at precise times, which is crucial for timely reminders such as medication alerts.
+- Purpose:  The "دوائك" (doa2k) app uses the USE_FULL_SCREEN_INTENT permission to ensure critical notifications are delivered to you in a full-screen format when necessary. This is particularly important for urgent reminders, such as medication alerts, that need your immediate attention.
 - Usage: We use this permission to set exact alarms for notifications. The information related to these alarms is stored locally on your device and is not shared or transmitted.
 
 ### USE_FULL_SCREEN_INTENT
 - Purpose: This permission allows our app to display full-screen notifications, ensuring you see critical alerts without delay.
-- Usage: We use this permission for notifications that require immediate attention, such as emergency reminders. This permission does not involve collecting or storing any personal data.
+- Justification: The full-screen intent allows us to show notifications that can appear in full screen, even when the device is locked or another application is being used. This ensures you never miss important notifications related to your medication schedule, which is essential for managing your health effectively.
 
 ### WAKE_LOCK
 - Purpose: This permission allows our app to keep the device awake to ensure that important notifications are delivered and displayed promptly.
